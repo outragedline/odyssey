@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-g",
+      "-o",
+      "./build/odyssey",
+      "./src/main.c"
+    ],
+    "directory": "/home/teste/Projects/odyssey",
+    "file": "/home/teste/Projects/odyssey/src/main.c",
+    "output": "/home/teste/Projects/odyssey/build/odyssey"
+  }
+]
